@@ -1,0 +1,2 @@
+Project Info:
+This SQL-based COVID-19 data analysis project uses two main tables: CovidDeaths and CovidVaccinations. It calculates key metrics such as death percentages, infection rates, and vaccination progress. The project employs various SQL techniques including joins, CTEs, temp tables, and views to manipulate and analyze the data effectively, providing insights into the pandemic's global impact.
